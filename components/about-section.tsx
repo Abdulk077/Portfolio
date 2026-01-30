@@ -29,7 +29,7 @@ const AboutSection = () => {
 
           <div className="relative">
             <div className="aspect-square rounded-lg overflow-hidden bg-gradient-to-br from-primary/20 to-accent/20 border border-primary/20">
-              <img src="/developer-profile-photo.jpg" alt="Profile" className="w-full h-full object-cover" />
+              <img src="/Abdul.jpg" alt="Profile" className="w-full h-full object-cover" />
             </div>
           </div>
         </div>

@@ -23,6 +23,7 @@ const ProjectsSection = () => {
       description:"An AI-powered equity research application that processes stock-related articles directly from provided links. It enables intelligent question–answering to extract key insights and summarize relevant financial information. Designed to support faster and more informed investment research using generative AI.",
       image: "/task-management-board.png",
       githubLink: "https://github.com/Abdulk077/Gen-Ai/tree/main/Equity_Reserch_Tolls",
+      livelink: "not available",
       tags: ["Langchain", "Vectordb","Groq", "Streamlit", "Python" ],
     },
   ]
