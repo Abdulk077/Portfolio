@@ -11,11 +11,11 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Portfolio - Web Developer | Android Developer | AI & ML Enthusiast",
   description: "Showcasing my skills in web development, android development, AI/ML, and data analysis.",
-  generator: "v0.app",
-  icons: {
+  generator: "me",
+  /*icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "/icon-light-32x32.jpg",
         media: "(prefers-color-scheme: light)",
       },
       {
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
       },
     ],
     apple: "/apple-icon.png",
-  },
+  },*/
 }
 
 export default function RootLayout({
