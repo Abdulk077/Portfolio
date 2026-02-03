@@ -8,10 +8,7 @@ const nextConfig = {
   },
   devIndicators: {
     buildActivity: true, // removes the floating Next.js logo / dev overlay
-  },
-  /*experimental: {
-    turbo: false,
-  }*/
+  }
 };
 
 export default nextConfig;
