@@ -10,7 +10,7 @@ const nextConfig = {
     buildActivity: true, // removes the floating Next.js logo / dev overlay
   },
   experimental: {
-    turbo: true,
+    turbo: false,
   },
 };
 
